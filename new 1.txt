@@ -1,0 +1,6 @@
+<form method = "post" action = "/message">
+
+<input type = "text" name = "message" />
+< input type = "submit" value = "submit" /> 
+   
+</form>

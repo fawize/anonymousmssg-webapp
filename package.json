@@ -1,0 +1,31 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.17.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.0",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.19",
+    "pm2": "^5.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "socket.io": "^4.4.0",
+    "streamsearch": "^1.1.0",
+    "xtend": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server",
+    "dev": "nodemon server.js"
+  },
+  "author": "fawaz",
+  "license": "ISC"
+}
